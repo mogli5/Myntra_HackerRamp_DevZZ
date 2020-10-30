@@ -5,6 +5,7 @@ webD.get("https://www.pinterest.com/Marcellthekid/men-fashion-catalog/")
 
 from time import sleep
 print("Please scroll down as far as possible for 20 seconds")
+sleep(20)
 
 productInfoList = webD.find_elements_by_class_name("GrowthUnauthPinImage")
 
