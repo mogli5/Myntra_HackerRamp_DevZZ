@@ -26,11 +26,11 @@
  - To create the model, run the script `encoder_training_script.py`
  - Alternatively, download the trained model from - https://drive.google.com/file/d/1DZfGkI306fjILH67ufKVIbZ6W9sTBoGL/view?usp=sharing
 
-# 4. Computing the Popularity Metric (PM)
+# Computing the Popularity Metric (PM)
  - To create and train the model, run `pm_model_train_script.py`
  - Alternatively, you can download the trained model from here - https://drive.google.com/file/d/1ZGJMAn3OVug--jsIYCohgLzM_V461059/view?usp=sharing
  - Once the model is created, you can run `pm_predictor_script.py` to predict the PM for any input image
  
- # 5. Clustering
+ # Clustering
  - For quick runover and without archiving data, download archived image data from here -  https://drive.google.com/file/d/1B4P4IvKcrv_7cxGrIAvUMslFS5S35cTm/view?usp=sharing
  - This can be done by running `clustering_script.py`
